@@ -1,7 +1,7 @@
-body{
-    background-color: blanchedalmond;
+#effets div,#tests div,#animate div, #maBoite{
+    background: red;
+    height: 300px;
+    margin: 2px;
+    background-image: url(carotte.svg);
 }
 
-h1 {
-    color: red;
-}
