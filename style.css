@@ -1,9 +1,26 @@
 #effets div,#tests div,#animate div, #maBoite{
+	text-align: center;
     background: red;
     height: 300px;
-    margin: 2px;
+    margin: 30px;
 }
 
+#animate div{
+	text-align: center;
+	vertical-align: middle;
+}
+
+#buton div{
+	margin : 30px;
+	background-color: grey;
+}
+#buton h4{
+	text-align: center;
+}
+
+header {
+	text-align: center;
+}
 
 
 
